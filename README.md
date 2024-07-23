@@ -1,4 +1,4 @@
-# Đồ án phần mềm: ứng dụng Machine Learning(xx%) *[chi tiết](./DoAn)*
+# Đồ án phần mềm: ứng dụng Machine Learning
 
 Xây dựng trang DashBoard phân tích trading theo các tiêu chí sau
 1) Người dùng chọn một trong các phương pháp dự đoán:
@@ -13,7 +13,3 @@ Xây dựng trang DashBoard phân tích trading theo các tiêu chí sau
     a. Lấy dữ liệu lớn hơn 1000 nến (candle) từ lịch sử -> Đã làm
     b. Lấy dữ liệu real-time append vô dữ liệu hiện tại -> Không có
     c. Dự đoán giá nến (candle) kế tiếp -> Đã làm
-
-Tiêu chí chấm : Hỗ trợ càng nhiều mô hình dự đoán(Kết hợp phương pháp và các đặc trưng) càng tốt, giao diện đẹp, tiện dụng, dễ xài.
-
-Lưu ý: ứng dụng được thêm các nội dung đã seminar vào sẽ được cộng thêm điểm.
